@@ -1,4 +1,4 @@
-# This is a proоect that i've maid as a homework for my school
+# This is a project that i've maid as a homework for my school
 
 ## It is a task that was presented in the end of the _2nd_ module.
 
